@@ -7,7 +7,9 @@ I will try to make it for HEN but ATM it is for CFW on DEX with TMAPI.
 
 
 Replace Eboot 1.13
+
 Place Jo-Milk folder and it's content in tmp directory on the modded PS3
+
 Place Phoenix_V6.sprx in tmp root
 
 Sincerly your friend Jo-Milk
